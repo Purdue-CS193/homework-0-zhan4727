@@ -1,4 +1,4 @@
-##Christina Zhang's First CS193 Homework
+# Christina Zhang's First CS193 Homework
 
 - CS 193 is a useful class
 - We get to learn about terminals
