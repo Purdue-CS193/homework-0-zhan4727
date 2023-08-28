@@ -5,6 +5,7 @@
 - We don't feel stressed
 - The class has awesome undergraduate students leading us
 - We feel welcomed
+- We don't have to wake up early for this class
 
 ## Welcome to GitHub Pages
 
